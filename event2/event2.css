@@ -2,7 +2,7 @@ body, html { background-color: none !important; background-image: url(../../imag
 
 #body_gradient { position: absolute; top: 0; left: 0; width: 100%; height: 50px; background-image: url(../../images/wassup/body_gradient2.png); z-index: 0 }
 
-#wrapbox { 
+#wrapbox { asdsad
 	width: 920px; min-height: 100%;
 	position:absolute; left: 50%; margin-left: -460px; background-color: none !important; z-index: 1;
 }
